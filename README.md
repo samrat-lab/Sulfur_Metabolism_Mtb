@@ -13,7 +13,7 @@
 
 
 ## Data
-**deg_genes.xlsx:** RNA seq data for control and test case
+**deg_genes.xlsx:** RNA seq data of control and test case
 
 
 ## Metabolic model
