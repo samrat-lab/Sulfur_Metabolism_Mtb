@@ -10,3 +10,11 @@
 **Final_flux_values.m:** Filtering the optimal flux profile for both control and test case
 
 **Pathway_enrichment_of_pert_rxns.m:** Finding the subsystems associated with altered reactions, and within each subsystem organizing the number of upregulated and downregulated reactions
+
+
+## Data
+**deg_genes.xlsx:** RNA seq data for control and test case
+
+
+## Metabolic model
+**iEK1011_2.0.mat:** Computer-based representation of the metabolism of Mycobacterium tuberculosis
